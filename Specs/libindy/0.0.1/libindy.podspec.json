@@ -15,8 +15,7 @@
     "ios": "10.0"
   },
   "source": {
-    // "http": "https://repo.sovrin.org/ios/libindy/stable/libindy-core/0.1.1/libindy-core-ios.tar.gz"
-    "http": "http://movist.com/temp/out_pod/libindy.tar.gz"
+    "http": "https://repo.sovrin.org/ios/libindy/stable/libindy-core/0.1.1/libindy-core-ios.tar.gz"
   },
   "source_files": "*.h",
   "vendored_libraries": "*.a",
